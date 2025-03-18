@@ -1,0 +1,5 @@
+__pycache__
+*.pyc
+wine_project_env/
+output/
+*.png
