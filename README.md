@@ -44,7 +44,8 @@ This project performs a comprehensive analysis of the Wine Dataset using Python.
   Project Structure
 text
 
-##Project Structure
+## Project Structure
+
 ```
 wine_project/
 ├── src/                     # Source code
@@ -56,7 +57,8 @@ wine_project/
 ├── .gitignore               # Ignored files
 ├── README.md                # This file
 ```
-##Author
+## Author
+
 Amirhossein Amin Moghaddam - Master's Student in Computer Software Engineering at Iran University of Science and Technology
 
 Advanced Data Mining Course
